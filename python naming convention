@@ -1,0 +1,35 @@
+1. Variables, Functions, Methods:
+  Use lowercase letters and underscores to separate words (snake_case). For example: my_variable, calculate_area(), process_data(), etc.
+
+2. Constants:
+  Use all uppercase letters with underscores to separate words for constants. For example: MAX_VALUE, PI, DEFAULT_THRESHOLD, etc.
+
+3. Classes:
+  Use CamelCase (also known as CapitalizedWords) for class names. For example: MyClass, BankAccount, CarModel, etc.
+
+4. Private Variables and Methods:
+  For private variables and methods, use a single leading underscore. For example: _private_variable, _private_method().
+
+5. Modules:
+  Use short, lowercase names for modules. Avoid using underscores in module names if possible. For example: math, random, os, etc.
+
+6. Packages:
+  Use short, lowercase names for packages. Preferably without underscores. For example: numpy, pandas, requests, etc.
+
+7. Function and Variable Naming Conventions:
+  Descriptive names: Use meaningful and descriptive names that indicate the purpose of the function or variable.
+  Use verbs for function names: Function names should typically describe actions using verbs when appropriate (e.g., calculate, process, generate, create, etc.).
+  Use nouns for variable names: Variable names should typically be nouns and reflect the data they hold or represent.
+
+8. Indentation and Spacing:
+  Use 4 spaces for indentation.
+  Use spaces around operators (=, +, -, etc.) for better readability.
+  Limit lines to a maximum of 79 characters (though this is not a strict requirement).
+
+9. Comments and Documentation:
+  Write clear and concise comments explaining complex code or adding context to the code.
+  Use docstrings to document functions, classes, and modules.
+
+Other Recommendations:
+  Avoid using single-character names, except for simple loop variables (i, j, k).
+  Be consistent within your codebase and follow the conventions used in existing code or projects you are contributing to.
